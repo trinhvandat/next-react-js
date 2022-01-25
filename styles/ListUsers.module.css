@@ -1,0 +1,8 @@
+.detailLink {
+    color: blue;
+    text-decoration: underline;
+}
+
+.tblusers td, .tblusers th {
+    border: 1px solid black;
+}
